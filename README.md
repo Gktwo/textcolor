@@ -11,4 +11,6 @@ npm run build
 
 ![textcolor](https://github.com/Gktwo/textcolor/blob/gktwo-textcolor/public/web.png)
 
+http://textcolor.gktwoserver.xyz/
+
 
