@@ -9,4 +9,4 @@ npm install
 
 npm run build
 
-<div align="center"><img alt="https://github.com/Gktwo/textcolor/blob/gktwo-textcolor/public/web.png" src="https://github.com/Gktwo/textcolor"></div>
+<div<a class="web" target="_blank" href="http://textcolor.gktwoserver.xyz" data-type="0"> <div class="textcolor" style="background-image: url(https://github.com/Gktwo/textcolor/blob/gktwo-textcolor/public/web.png)"></div></a></div>
