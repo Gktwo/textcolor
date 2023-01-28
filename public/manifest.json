@@ -1,6 +1,6 @@
 {
-  "short_name": "gradientIt",
-  "name": "Simple gradient form",
+  "short_name": "textcolor",
+  "name": "textcolor",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,5 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#fbeecl"
+  "background_color": "#fDD2E3"
 }

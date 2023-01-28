@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #fbeec1;
+    background-color: #fDD2E3;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -13,7 +13,7 @@ body {
 }
 
 .title {
-    color: #bc986a;
+    color: #F89B9B;
     font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
     font-size: 3rem;
     font-weight: bold;
@@ -23,7 +23,7 @@ body {
 }
 
 .subtitle {
-    color: #56452d;
+    color: #AA3790;
     font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
     font-size: 1rem;
     font-weight: bold;
@@ -41,6 +41,6 @@ body {
 }
 
 .footer span:not(:last-child):after {
-    content: ' / ';
+    content: ' |';
     display:inline;
 }

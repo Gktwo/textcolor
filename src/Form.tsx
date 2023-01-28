@@ -8,7 +8,7 @@ import {Card, CardContent, Container, Grid, TextField, Typography} from '@mui/ma
 
 
 export default function Form() {
-    const [textInput, setText] = useState("Type ur text")
+    const [textInput, setText] = useState("请输入你的文本")
     const [colorStart, setColorS] = useState("rgb(255, 0, 0)");
     const [colorEnd, setColorE] = useState("rgb(0, 0, 255)");
 
@@ -58,11 +58,11 @@ export default function Form() {
                         </Grid>
                         <Grid item md={6} xs={12}>
                             <CopyField
-                                label="Click on copy Button"
+                                label="点击按钮复制"
                                 value={result.text} fullWidth
                                 onCopySuccess={console.log}
                                 onCopyError={console.log}
-                                copyTooltip={"copy colored text"}
+                                copyTooltip={"复制带颜色的文本"}
                             />
                         </Grid>
                     </Grid>
