@@ -9,6 +9,4 @@ npm install
 
 npm run build
 
-
-
-<div align="center"><img alt="Documention" src="https://github.com/Gktwo/textcolor/blob/gktwo-textcolor/public/web.png&link=https://github.com/Gktwo/textcolor"></div>
+<div align="center"><img alt="https://github.com/Gktwo/textcolor/blob/gktwo-textcolor/public/web.png" src="https://github.com/Gktwo/textcolor"></div>
